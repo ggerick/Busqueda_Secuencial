@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Busqueda_secuencial/Busqueda_secuencial/bin/Debug/Busqueda_secuencial.exe
+/Users/AlanGarcia/Projects/Busqueda_secuencial/Busqueda_secuencial/bin/Debug/Busqueda_secuencial.pdb
+/Users/AlanGarcia/Projects/Busqueda_secuencial/Busqueda_secuencial/obj/x86/Debug/Busqueda_secuencial.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Busqueda_secuencial/Busqueda_secuencial/obj/x86/Debug/Busqueda_secuencial.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Busqueda_secuencial/Busqueda_secuencial/obj/x86/Debug/Busqueda_secuencial.exe
+/Users/AlanGarcia/Projects/Busqueda_secuencial/Busqueda_secuencial/obj/x86/Debug/Busqueda_secuencial.pdb

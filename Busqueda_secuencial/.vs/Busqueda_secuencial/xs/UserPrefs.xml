@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DB663D8C-C7C3-4330-A946-7274D7AE3C6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Busqueda_secuencial/Program.cs">
+    <Files>
+      <File FileName="Busqueda_secuencial/Program.cs" Line="66" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Busqueda__secuencial PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
